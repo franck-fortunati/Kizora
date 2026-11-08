@@ -21,7 +21,7 @@ Le Rédacteur dispose des droits de l'Utilisateur, avec la possibilité supplém
 
 ## Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation de Kizora (V1 et V2)](./use-cases-kizora.png)
+![Diagramme de cas d'utilisation de Kizora (V1 et V2)](./use-cases-Kizora.png)
 
 ### Légende
 

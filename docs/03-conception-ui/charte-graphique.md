@@ -16,14 +16,14 @@ Je préfère réserver les éléments les plus marqués au logo et à quelques d
 
 | Utilisation | Couleur | Code HEX |
 |---|---|---|
-| Fond général des pages | Blanc cassé chaud | `#FFF9F2` |
-| Cartes et blocs de contenu | Blanc | `#FFFFFF` |
-| Header et footer | Beige clair | `#FFEFD6` |
-| Couleur principale du logo et accents décoratifs | Rouge vif | `#F40002` |
-| Boutons principaux et liens au survol | Rouge foncé | `#B91C1C` |
-| Texte principal et liens classiques | Noir doux | `#26211E` |
-| Texte secondaire | Gris brun | `#6B625B` |
-| Bordures discrètes et séparateurs | Beige grisé | `#E8DCCE` |
+| Fond général des pages | Blanc cassé chaud | ![#FFF9F2](https://via.placeholder.com/15/FFF9F2/000000?text=+) `#FFF9F2` | 
+| Cartes et blocs de contenu | Blanc | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` | 
+| Header et footer | Beige clair | ![#FFEFD6](https://via.placeholder.com/15/FFEFD6/000000?text=+) `#FFEFD6` | 
+| Couleur principale du logo et accents décoratifs | Rouge vif | ![#F40002](https://via.placeholder.com/15/F40002/000000?text=+) `#F40002` | 
+| Boutons principaux et liens au survol | Rouge foncé | ![#B91C1C](https://via.placeholder.com/15/B91C1C/000000?text=+) `#B91C1C` | 
+| Texte principal et liens classiques | Noir doux | ![#26211E](https://via.placeholder.com/15/26211E/000000?text=+) `#26211E` | 
+| Texte secondaire | Gris brun | ![#6B625B](https://via.placeholder.com/15/6B625B/000000?text=+) `#6B625B` | 
+| Bordures discrètes et séparateurs | Beige grisé | ![#E8DCCE](https://via.placeholder.com/15/E8DCCE/000000?text=+) `#E8DCCE` | 
 
 Le rouge vif du logo sera utilisé par petites touches : éléments décoratifs, séparateurs, détails de navigation et certaines bordures.
 

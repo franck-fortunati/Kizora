@@ -1,27 +1,29 @@
-import express from "express";
-
+import express from 'express';
+import session from './src/config/session.js';
 const app = express();
 
 app.use(express.json());
-app.use(express.static("public"));
+app.use(express.static('public'));
+app.use(express.urlencoded({extended: false}));
+app.use(session);
 
-app.set("view engine", "ejs");
-app.set("views", "./src/views");
+app.set('view engine', 'ejs');
+app.set('views', './src/views');
 
 app.get('/', (req, res) => {
     try {
         res.render('layout', {
             title: 'Accueil',
-            description: "Découvrez les animés et les actualités de la culture japonaise.",
+            description: 'Découvrez les animés et les actualités de la culture japonaise.',
             page: 'pages/accueil',
             error: null
         });
     } catch (err) {
         res.render('layout', {
             title: 'Accueil',
-            description: "Découvrez les animés et les actualités de la culture japonaise.",
+            description: 'Découvrez les animés et les actualités de la culture japonaise.',
             page: 'pages/accueil',
-            error: err.message || "Erreur serveur.'"
+            error: err.message || 'Erreur serveur.'
         });
     };
 });
